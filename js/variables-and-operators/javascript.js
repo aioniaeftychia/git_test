@@ -1,0 +1,10 @@
+console.log("1:\t",23+97);
+console.log("2:\t",1+2+3+4+5+6);
+console.log("3:\t",((4+6+9)/77).toFixed(5));
+let a=10;
+console.log("4.1:\t",a);
+console.log("4.2:\t",9*a);
+let b = 7*a;
+console.log("4.3:\t",b);
+const MAX = 57;
+let actual = MAX - 13, percentage = actual/MAX;
